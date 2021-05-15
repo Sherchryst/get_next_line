@@ -19,19 +19,6 @@ d'une ou de plusieurs variables statiques.
 
 ## Getting Started
 
-### Compiling
-
-Run the following commands:
-
-* To compile
-	- `make`
-* To remove objects:
-	- `make clean`
-* To remove objects and binary file (program):
-	- `make fclean`
-* To re-compile:
-	- `make re`
-
 ### Executing
 
 To test the function by using my own tester gnlkiller.
